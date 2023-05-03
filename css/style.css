@@ -463,9 +463,10 @@ body.light hr.separator {
   position: fixed;
   height: 200%;
   width: 100%;
-  transform: rotate(-15deg);
+  transform: rotate(45deg);
   left: -83%;
   top: -50%;
+  
 }
 
 .home .bg {
