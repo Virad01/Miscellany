@@ -16,7 +16,8 @@ body {
   background-position: center;
   height: 100%;
   width: 100%;
-  background-color: #111;
+  background-color: #000000;
+  /* background-image: url("copy .jpg"); */
 }
 
 /* custom scrollbar */
